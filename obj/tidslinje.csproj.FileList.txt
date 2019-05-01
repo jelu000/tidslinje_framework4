@@ -1,0 +1,7 @@
+bin\Debug\tidslinje.exe
+bin\Debug\tidslinje.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\tidslinje.MainForm.resources
+obj\Debug\tidslinje.csproj.GenerateResource.Cache
+obj\Debug\tidslinje.exe
+obj\Debug\tidslinje.pdb

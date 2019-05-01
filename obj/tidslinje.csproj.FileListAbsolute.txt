@@ -1,0 +1,7 @@
+C:\Documents and Settings\jens\Skrivbord\csharp_projects\peter\tidslinje\bin\Debug\tidslinje.exe
+C:\Documents and Settings\jens\Skrivbord\csharp_projects\peter\tidslinje\bin\Debug\tidslinje.pdb
+C:\Documents and Settings\jens\Skrivbord\csharp_projects\peter\tidslinje\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jens\Skrivbord\csharp_projects\peter\tidslinje\obj\Debug\tidslinje.MainForm.resources
+C:\Documents and Settings\jens\Skrivbord\csharp_projects\peter\tidslinje\obj\Debug\tidslinje.csproj.GenerateResource.Cache
+C:\Documents and Settings\jens\Skrivbord\csharp_projects\peter\tidslinje\obj\Debug\tidslinje.exe
+C:\Documents and Settings\jens\Skrivbord\csharp_projects\peter\tidslinje\obj\Debug\tidslinje.pdb

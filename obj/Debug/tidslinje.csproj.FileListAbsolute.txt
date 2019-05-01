@@ -1,0 +1,16 @@
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje\tidslinje\bin\Debug\tidslinje.exe.config
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje\tidslinje\bin\Debug\tidslinje.exe
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje\tidslinje\bin\Debug\tidslinje.pdb
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje\tidslinje\obj\Debug\tidslinje.csprojResolveAssemblyReference.cache
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje\tidslinje\obj\Debug\tidslinje.MainForm.resources
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje\tidslinje\obj\Debug\tidslinje.csproj.GenerateResource.Cache
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje\tidslinje\obj\Debug\tidslinje.exe
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje\tidslinje\obj\Debug\tidslinje.pdb
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje_framework4\tidslinje\bin\Debug\tidslinje.exe.config
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje_framework4\tidslinje\bin\Debug\tidslinje.exe
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje_framework4\tidslinje\bin\Debug\tidslinje.pdb
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje_framework4\tidslinje\obj\Debug\tidslinje.csprojResolveAssemblyReference.cache
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje_framework4\tidslinje\obj\Debug\tidslinje.MainForm.resources
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje_framework4\tidslinje\obj\Debug\tidslinje.csproj.GenerateResource.Cache
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje_framework4\tidslinje\obj\Debug\tidslinje.exe
+C:\Users\jens\Documents\programmering\charp_projects\tidslinje_framework4\tidslinje\obj\Debug\tidslinje.pdb
